@@ -11,4 +11,6 @@ describe('Lending Contract', () => {
 
         return lendingContract;
     }
+
+    describe('', () => {   })
  })
